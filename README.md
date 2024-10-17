@@ -1,7 +1,9 @@
 # Test Automation Engineer 
 
-### Work Experiences
-Accenture Canada
+## Summary:
+
+## Work Experiences
+ ### Accenture Canada
     - Ontario Teacher Insurance Plan (OTIP)
     - Immigration, Refugees and Citizenship Canada (IRRC)
     - Export Development Canada (EDC)
@@ -9,14 +11,14 @@ Accenture Canada
     - AmerisourceBergen US
     - Canada Post Canada
 
-MXI/IFS Canada
+ ### MXI/IFS Canada
 
-IBM Canada
+ ### IBM Canada
 
-Cognos Canada
+ ### Cognos Canada
 
-Maribridge
-
+ ### Maribridge
+ 
 ## Education
   ### Algonguin College, Ottawa, Ontario
     - Honours Diplomas Computer Engineer Technology
