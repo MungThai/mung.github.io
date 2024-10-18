@@ -17,7 +17,6 @@
     - Google Youtub Music US
     - AmerisourceBergen US
     - Canada Post Canada
-    
   **Skills:** BDD, Java, C#, Python, Katalon Studio, Selenium, API, Postman, REST-Assured, RestSharp, Appium, Jenkins, Azure Pipeline, WearOS, Android, iOS, Objective-C, Google's tools
 
 ### Test Automation Lead 
@@ -26,7 +25,6 @@
     - Designed and Implemented Web,API and Mobile automation frameworks for Web and Android using Java, Selenium, Appium, BDD (Cucumber, Gherkin syntax) and Cucumber report, improving the test efficiency by 50%.
     - Configure and Implemented CI/CD pipeline (jenkinsfile) using Jenkins to run nightly thereby reducing bug identification time by 80%
     - Trained and managed a team of automation developers, reducing code review time by 20%.
-    
   **Skills:** BDD, Java, Selenium, Appium, Jenkins
 
 ### Test Automation Lead
@@ -42,7 +40,6 @@
     - Successfully performed Interoperability, Conformance, and Regression testing to guarantee the
       reliability and stability of software releases.
     - Successfully automated testing for Web, API and Mobile ensuring compatibility across versions.
-    
   **Skills:** Solaris, HP-UX, AIX, Linux, Windows, Cognos BI, Java, Visual Basic, C++, RFT, DB2, MS-SQL, Oracle
 
 ### Software Developer
