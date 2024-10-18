@@ -20,9 +20,8 @@
     
   **Skills:** BDD, Java, C#, Python, Katalon Studio, Selenium, API, Postman, REST-Assured, RestSharp, Appium, Jenkins, Azure Pipeline, WearOS, Android, iOS, Objective-C, Google's tools
 
- ### Test Automation Lead 
- 
-   #### [MXI / IFS Aerospace and Defense Software @ Ottawa, Ontario, Canada](https://www.ifs.com/industries/aerospace-and-defense)
+### Test Automation Lead 
+#### [MXI / IFS Aerospace and Defense Software @ Ottawa, Ontario, Canada](https://www.ifs.com/industries/aerospace-and-defense)
     September 2016 – August 2019
     - Designed and Implemented Web,API and Mobile automation frameworks for Web and Android using Java, Selenium, Appium, BDD (Cucumber, Gherkin syntax) and Cucumber report, improving the test efficiency by 50%.
     - Configure and Implemented CI/CD pipeline (jenkinsfile) using Jenkins to run nightly thereby reducing bug identification time by 80%
@@ -31,8 +30,7 @@
   **Skills:** BDD, Java, Selenium, Appium, Jenkins
 
 ### Test Automation Lead
- 
-   #### [Cognos / IBM Canada @ Ottawa, Ontario, Canada](https://www.ibm.com/ca-en)
+#### [Cognos / IBM Canada @ Ottawa, Ontario, Canada](https://www.ibm.com/ca-en)
     November 1998 - September 2016
     - Developed and maintained a resilient Automation Infrastructure, incorporating a range of technologies
       for effective and efficient testing.
@@ -47,23 +45,23 @@
     
   **Skills:** Solaris, HP-UX, AIX, Linux, Windows, Cognos BI, Java, Visual Basic, C++, RFT, DB2, MS-SQL, Oracle
 
- ### Software Developer
- 
- #### Marinbridge Corp. @ Ottawa, Ontario, Canada
+### Software Developer
+#### Marinbridge Corp. @ Ottawa, Ontario, Canada
     June 1996 – November 1998
     - Successfully designed, implemented, and developed the Community Access Program (CAP) System
       for Industry Canada, providing a tailored solution using Visual Basic 6 and MS Access.
     - Played a vital role as part of the development team in creating a Conversion tool, facilitating the
       migration from Oracle Forms to Visual Basic for improved efficiency and compatibility.
- 
+**Skills:** Visual Basic, Oracle Forms, MS Access
+
+
 ## Github Projects:
 
 
 
 ## Education:
-
-  ### Algonguin College @ Ottawa, Ontario, Canada
-    - Honours Diplomas Computer Engineer Technology
+### Algonguin College @ Ottawa, Ontario, Canada
+#### Honours Diplomas Computer Engineer Technology
 
 ## Certification:
 - [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/3ZML9PS24E1QQ851)
