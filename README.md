@@ -7,13 +7,11 @@
   - Experienced in managing, training, and mentoring QA teams members, fostering professional growth and high-performance culture.
   - Adept at transforming developer experience, improving productivity, impact, and satisfaction across engineering departments.
 
-Actively seeking opportunities to leverage my skills in helping organizations elevate their performance by implementing advanced quality and process optimization standards, and enhancing the developer experience.
+    Actively seeking opportunities to leverage my skills in helping organizations elevate their performance by implementing advanced quality and process optimization standards, and enhancing the developer experience.
 
 ## Experiences:
-
- ### Test Automation Engineer Manager
- 
-  #### [Accenture @ Ottawa, Ontario, Canada](https://www.accenture.com/ca-en)
+### Test Automation Engineer Manager
+#### [Accenture @ Ottawa, Ontario, Canada](https://www.accenture.com/ca-en)
     August 2019 - Present
     - Ontario Teacher Insurance Plan (OTIP)
     - Google Youtub Music US
