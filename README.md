@@ -12,16 +12,23 @@
 ## Experiences:
 ### Test Automation Engineer Manager
 #### [Accenture @ Ottawa, Ontario, Canada](https://www.accenture.com/ca-en)
-    August 2019 - Present
-    - Ontario Teacher Insurance Plan (OTIP)
-    - Google Youtub Music US
-    - AmerisourceBergen US
-    - Canada Post Canada
-  **Skills:** BDD, Java, C#, Python, Katalon Studio, Selenium, API, Postman, REST-Assured, RestSharp, Appium, Jenkins, Azure Pipeline, WearOS, Android, iOS, Objective-C, Google's tools
+    July 2019 - Present
+  ##### Ontario Teacher Insurance Plan (OTIP) (March 2022 - present)
+  **Skills:** Designed, implemented and integrated (Applitools), Web, API Telephony (Cyara), Mobile (Appium, Android, iOS), Accessiblity (AXE), Azure Pipeline automation framework in Selenium, C#, RestSharp.
+    
+  ##### Google YouTube Music (May 2021 – Dec 2022)
+  **Skills:** Automated YouTube Web, Apps (Android, iOS), Watch (WearOS) in Java, Python, Objective-C with Others Google's tools (Google Cloud, Cider, Blaze,
+GUITAR, MOSCAR, TestGrid, Buganizer, Google's device farms)
+
+  ##### AmerisourceBergen (July 2019 – May 2021)
+  **Skills:** Implemented Test Automation framework with Selenium, Java, ReportPortalio.
+    
+  ##### Canada Post Canada (July 2019 – May 2021)
+  **Skills:** BDD, Selenium, Java, REST-Assured, Mobile (Appium, Android, iOS) and Katalon Studio.
 
 ### Test Automation Lead 
 #### [MXI / IFS Aerospace and Defense Software @ Ottawa, Ontario, Canada](https://www.ifs.com/industries/aerospace-and-defense)
-    September 2016 – August 2019
+    September 2016 – July 2019
     - Designed and Implemented Web,API and Mobile automation frameworks for Web and Android using Java, Selenium, Appium, BDD (Cucumber, Gherkin syntax) and Cucumber report, improving the test efficiency by 50%.
     - Configure and Implemented CI/CD pipeline (jenkinsfile) using Jenkins to run nightly thereby reducing bug identification time by 80%
     - Trained and managed a team of automation developers, reducing code review time by 20%.
