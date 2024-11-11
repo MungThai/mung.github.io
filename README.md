@@ -61,8 +61,6 @@ for Industry Canada, providing a tailored solution using Visual Basic 6 and MS A
 ## Github Projects:
 >
 - ***[Playwright-Typescript](https://github.com/MungThai/playwright-typescript)***
-- ***[Playwright-Csharp](working on)***
-- ***[Playwright-Java](next project)***
 - ***[Cucummber-Java](https://github.com/MungThai/sample-cucumber-api)***
 
 
