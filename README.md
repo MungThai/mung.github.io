@@ -16,14 +16,14 @@ Actively seeking opportunities to leverage my skills in helping organizations el
 >
 ***Ontario Teacher Insurance Plan (OTIP) - (March 2022 - Present)***
 - **Skills:** Designed, implemented and integrated (Applitools), Web, API Telephony (Cyara), Mobile (Appium, Android, iOS), Accessiblity (AXE), Azure DevOps, automation framework in Selenium, C#, RestSharp.
-    
+>    
 ***Google YouTube Music - (May 2021 – December 2022)***
 - **Skills:** Automated YouTube Web, Apps (Android, iOS), Watch (WearOS) in Java, Python, Objective-C with Others Google's tools (Google Cloud, Cider, Blaze,
 GUITAR, MOSCAR, TestGrid, Buganizer, Google's device farms)
-
+>
 ***AmerisourceBergen - (July 2019 – May 2021)***
 - **Skills:** Implemented Test Automation framework with Selenium, Java, Docker, [ReportPortal.io](https://reportportal.io/)
-
+>
 ***Canada Post Canada - (July 2019 – May 2021)***
 - **Skills:** BDD, Selenium, Java, REST-Assured, Mobile (Appium, Android, iOS), Docker, [ReportPortal.io](https://reportportal.io/) and Katalon Studio.
 
@@ -37,6 +37,7 @@ GUITAR, MOSCAR, TestGrid, Buganizer, Google's device farms)
 
 ### Test Automation Lead
 #### ***[Cognos / IBM Canada @ Ottawa, Ontario, Canada](https://www.ibm.com/ca-en)*** - (November 1998 - September 2016)
+>
 - Developed and maintained a resilient Automation Infrastructure, incorporating a range of technologies
       for effective and efficient testing.
 - Successfully executed and ensured the quality release of IBM Cognos BI through automated testing.
@@ -51,6 +52,7 @@ reliability and stability of software releases.
 
 ### Software Developer
 #### Marinbridge Corp. @ Ottawa, Ontario, Canada - (June 1996 – November 1998)
+>
 - Successfully designed, implemented, and developed the Community Access Program (CAP) System
 for Industry Canada, providing a tailored solution using Visual Basic 6 and MS Access.
 - Played a vital role as part of the development team in creating a Conversion tool, facilitating the
