@@ -15,7 +15,7 @@ Actively seeking opportunities to leverage my skills in helping organizations el
 #### ***[Accenture @ Ottawa, Ontario, Canada](https://www.accenture.com/ca-en).*** - (July 2019 - Present)
 >
 ***Ontario Teacher Insurance Plan (OTIP) - (March 2022 - Present)***
-- **Skills:** Designed, implemented and integrated (Applitools), Web, API Telephony (Cyara), Mobile (Appium, Android, iOS), Accessiblity (AXE), Azure DevOps, automation framework in Selenium, C#, RestSharp.
+- **Skills:** Designed, implemented and integrated (Applitools) test Automation Framework, C#, Selenium, Web, API Telephony (Cyara), Mobile (Appium, Android, iOS), Accessiblity (AXE), Postman, RestSharp, extent reports and Azure DevOps.
 >    
 ***Google YouTube Music - (May 2021 – December 2022)***
 - **Skills:** Automated YouTube Web, Apps (Android, iOS), Watch (WearOS) in Java, Python, Objective-C with Others Google's tools (Google Cloud, Cider, Blaze,
@@ -25,7 +25,7 @@ GUITAR, MOSCAR, TestGrid, Buganizer, Google's device farms)
 - **Skills:** Implemented Test Automation framework with Selenium, Java, Docker, [ReportPortal.io](https://reportportal.io/)
 >
 ***Canada Post Canada - (July 2019 – May 2021)***
-- **Skills:** BDD, Selenium, Java, TestNG, REST-Assured, Mobile (Appium, Android, iOS), Docker, [ReportPortal.io](https://reportportal.io/) and Katalon Studio.
+- **Skills:** BDD, Selenium, Java, TestNG, REST-Assured, Postman, Mobile (Appium, Android, iOS), Docker, [ReportPortal.io](https://reportportal.io/) and Katalon Studio.
 
 ### Test Automation Lead 
 #### ***[MXI / IFS Aerospace and Defense Software @ Ottawa, Ontario, Canada](https://www.ifs.com/industries/aerospace-and-defense)*** - (September 2016 – July 2019)
