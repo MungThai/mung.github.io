@@ -22,10 +22,10 @@ Actively seeking opportunities to leverage my skills in helping organizations el
 GUITAR, MOSCAR, TestGrid, Buganizer, Google's device farms)
 
 ***AmerisourceBergen - (July 2019 – May 2021)***
-- **Skills:** Implemented Test Automation framework with Selenium, Java, [ReportPortal.io](https://reportportal.io/)
+- **Skills:** Implemented Test Automation framework with Selenium, Java, Docker, [ReportPortal.io](https://reportportal.io/)
 
 ***Canada Post Canada - (July 2019 – May 2021)***
-- **Skills:** BDD, Selenium, Java, REST-Assured, Mobile (Appium, Android, iOS) and Katalon Studio.
+- **Skills:** BDD, Selenium, Java, REST-Assured, Mobile (Appium, Android, iOS), Docker, [ReportPortal.io](https://reportportal.io/) and Katalon Studio.
 
 ### Test Automation Lead 
 #### ***[MXI / IFS Aerospace and Defense Software @ Ottawa, Ontario, Canada](https://www.ifs.com/industries/aerospace-and-defense)*** - (September 2016 – July 2019)
@@ -33,7 +33,7 @@ GUITAR, MOSCAR, TestGrid, Buganizer, Google's device farms)
 - Designed and Implemented Web,API and Mobile automation frameworks for Web and Android using Java, Selenium, Appium, BDD (Cucumber, Gherkin syntax) and Cucumber report, improving the test efficiency by 50%.
 - Configure and Implemented CI/CD pipeline (jenkinsfile) using Jenkins to run nightly thereby reducing bug identification time by 80%
 - Trained and managed a team of automation developers, reducing code review time by 20%.
-  **Skills:** BDD, Java, Selenium, Appium, Jenkins
+  **Skills:** BDD, Java, Selenium, Appium, Docker, Jenkins
 
 ### Test Automation Lead
 #### ***[Cognos / IBM Canada @ Ottawa, Ontario, Canada](https://www.ibm.com/ca-en)*** - (November 1998 - September 2016)
