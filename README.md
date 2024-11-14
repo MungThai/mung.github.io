@@ -15,7 +15,7 @@ Actively seeking opportunities to leverage my skills in helping organizations el
 #### ***[Accenture @ Ottawa, Ontario, Canada](https://www.accenture.com/ca-en).*** - (July 2019 - Present)
 >
 ***Ontario Teacher Insurance Plan (OTIP)***
-- **Skills:** Designed, implemented and integrated (Applitools) test Automation Framework, C#, Selenium, Web, API Telephony (Cyara), Mobile (Appium, Android, iOS), Accessiblity (AXE), Postman, RestSharp, extent reports and Azure DevOps.
+- **Skills:** Designed, implemented and integrated (Applitools) test Automation Framework, C#, Selenium, Web, API Telephony (Cyara), Mobile (Appium, Android, iOS), Accessibility (AXE), Postman, RestSharp, extent reports and Azure DevOps.
 >    
 ***Google YouTube Music***
 - **Skills:** Automated YouTube Web, Apps (Android, iOS), Watch (WearOS) in Java, Python, Objective-C with Others Google's tools (Google Cloud, Cider, Blaze,
