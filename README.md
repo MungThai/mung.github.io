@@ -18,7 +18,7 @@ Actively seeking opportunities to leverage my skills in helping organizations el
 - **Skills:** Designed, implemented and integrated (Applitools) test Automation Framework, C#, Selenium, Web, API Telephony (Cyara), Mobile (Appium, Android, iOS), Accessibility (AXE), Postman, RestSharp, extent reports and Azure DevOps.
 >    
 ***Google YouTube Music***
-- **Skills:** Automated YouTube Web, Apps (Android, iOS), Watch (WearOS) in Java, Python, Objective-C with Others Google's tools (Google Cloud, Cider, Blaze,
+- **Skills:** Automated YouTube Web, Mobile (Android, iOS), Watch (WearOS) in Java, Python, Objective-C with Others Google's tools (Google Cloud, Cider, Blaze,
 GUITAR, MOSCAR, TestGrid, Buganizer, Google's device farms)
 >
 ***AmerisourceBergen***
