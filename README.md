@@ -67,7 +67,7 @@ for Industry Canada, providing a tailored solution using Visual Basic 6 and MS A
 ## Education:
 ### [Algonguin College @ Ottawa, Ontario, Canada](https://www.algonquincollege.com/)
 >
-*Computer Engineer Technology Diplomas with Honours*
+*Computer Engineer Technology Diplomas with Honours - 1996*
 
 ## Certifications:
 >
