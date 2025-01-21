@@ -1,75 +1,93 @@
-## Summary:
-  A dynamic test automation leader in software quality, developer experience, committed to driving optimal quality standards and enhancing productivity in software deployment processes and products.
->
-  - Over a decade of experiences in leading quality and process improvement activities for various organizations, ensuring    high-quality output and enhanced developer satisfaction.
-  - Proven expertise in designing and implementing robust testing solutions, contributing to improved efficiency and reliability.
-  - Deep understanding and application of Agile best practices, resulting in streamlined processes and efficient workflows.
-  - Skilled in devising effective quality and process improvement strategies, leading to significant performance improvements.
-  - Experienced in managing, training, and mentoring QA teams members, fostering professional growth and high-performance culture.
-  - Adept at transforming developer experience, improving productivity, impact, and satisfaction across engineering departments.
+## Summary
+---
+Results-driven Senior Test Automation Engineer with over years of experience in developing and maintaining test automation frameworks and executing performance, regression, and functional testing for web, API, and mobile applications. Proficient in multiple programming languages, automation tools, and methodologies. Proven ability to lead teams, collaborate with cross-functional groups, and improve test efficiency through automation, contributing to faster release cycles and enhanced software quality.
 
-Actively seeking opportunities to leverage my skills in helping organizations elevate their performance by implementing advanced quality and process optimization standards, and enhancing the developer experience.
-    
-## Experiences:
-### Test Automation Engineer
-#### ***[Accenture @ Ottawa, Ontario, Canada](https://www.accenture.com/ca-en).*** - (July 2019 - Present)
->
-***Ontario Teacher Insurance Plan (OTIP)***
-- **Skills:** Designed, implemented and integrated (Applitools) test Automation Framework, C#, Selenium, Web, API Telephony (Cyara), Mobile (Appium, Android, iOS), Accessibility (AXE), Postman, RestSharp, extent reports and Azure DevOps.
->    
-***Google YouTube Music***
-- **Skills:** Automated YouTube Web, Mobile (Android, iOS), Watch (WearOS) in Java, Python, Objective-C with Others Google's tools (Google Cloud, Cider, Blaze,
-GUITAR, MOSCAR, TestGrid, Buganizer, Google's device farms)
->
-***AmerisourceBergen***
-- **Skills:** Implemented Test Automation framework with Selenium, Java, Docker, [ReportPortal.io](https://reportportal.io/)
->
-***Canada Post Canada***
-- **Skills:** BDD, Selenium, Java, TestNG, REST-Assured, Postman, Mobile (Appium, Android, iOS), Docker, [ReportPortal.io](https://reportportal.io/) and Katalon Studio.
+## Core Competencies
+---
+```
+•	Test Automation Frameworks (Selenium, Playwright, Appium, Junit, TestNG)
+•	Programming Languages (Java, C#, TypeScript, Groovy)
+•	Continuous Integration/Continuous Delivery (CI/CD) (Jenkins, Azure DevOps)
+•	Test Case Design & Execution
+•	Agile/Scrum Methodologies
+•	Performance Testing (JMeter)
+•	Version Control (Git, GitHub, Bitbucket)
+•	Web Services Testing (SOAP, REST API, Postman, RestAssured, RestSharp)
+•	Test Reporting & Metrics (ExtentReports, Allure, ReportPortal IO)
+•	Mobile Testing (Android, iOS)
+•	Cross-Browser Testing (Chrome, Edge, Firefox, Safari)
+•	Code Review and Mentorship
+•	Defect Tracking and Test Management (Jira)
+```
 
-### Test Automation Lead 
-#### ***[MXI / IFS Aerospace and Defense Software @ Ottawa, Ontario, Canada](https://www.ifs.com/industries/aerospace-and-defense)*** - (September 2016 – July 2019)
->
-- Designed and Implemented Web,API and Mobile automation frameworks for Web and Android using Java, Selenium, Appium, BDD (Cucumber, Gherkin syntax) and Cucumber report, improving the test efficiency by 50%.
-- Configure and Implemented CI/CD pipeline (jenkinsfile) using Jenkins to run nightly thereby reducing bug identification time by 80%
-- Trained and managed a team of automation developers, reducing code review time by 20%.
-- **Skills:** BDD, Java, Selenium, TestNG, Appium, Docker, Jenkins
-
-### Test Automation Lead
-#### ***[Cognos / IBM Canada @ Ottawa, Ontario, Canada](https://www.ibm.com/ca-en)*** - (November 1998 - September 2016)
->
-- Developed and maintained a resilient Automation Infrastructure, incorporating a range of technologies for effective and efficient testing.
-- Successfully executed and ensured the quality release of IBM Cognos BI through automated testing.
-- Managed database setup and configuration for MS SQL Server, IBM DB2, and Oracle 11g, ensuring
- seamless integration with the automation framework.
-- Conducted extensive cross-platform testing, validating application functionality across Windows,
-Linux, and Unix environments.
-- Successfully performed Interoperability, Conformance, and Regression testing to guarantee the
-reliability and stability of software releases.
-- Successfully automated testing for Web, API and Mobile ensuring compatibility across versions.
-- **Skills:** Solaris, HP-UX, AIX, Linux, Windows, Cognos BI, Java, Visual Basic, C++, RFT, DB2, MS-SQL, Oracle
-
-### Software Developer
-#### Marinbridge Corp. @ Ottawa, Ontario, Canada - (June 1996 – November 1998)
->
-- Successfully designed, implemented, and developed the Community Access Program (CAP) System
-for Industry Canada, providing a tailored solution using Visual Basic 6 and MS Access.
-- Played a vital role as part of the development team in creating a Conversion tool, facilitating the migration from Oracle Forms to Visual Basic for improved efficiency and compatibility.
-- **Skills:** Visual Basic, Oracle Forms, MS Access
+## Profession Experience
+---
+```
+Senior Test Automation Engineer
+Accenture: Ontario Teacher Insurance Plan (OTIP) – Ottawa, Ontario 
+March 2022 – November 2024
+•	Lead a team of 4 automation engineers to develop and maintain test automation scripts for a web-based application using Selenium, C#, ExtentReport and RestSharp.
+•	Designed and implemented an automation framework in C# that reduces the test execution time by 30%.
+•	Spearheaded the integration of automated test suites into Azure pipeline CI/CD, leading to a 40% reduction in manual testing effort.
+•	Implemented test data management strategies to ensure that automated tests were reusable across different environments.
+•	Mentored junior automation engineers, providing code reviews and guiding best practices for test automation.
+•	Collaborated with development and product teams to analyze requirements and translate them into automation scripts.
+•	Participated in sprint planning, reviews, and daily stand-ups within an Agile environment.
 
 
-## Github Projects:
->
-- ***[Playwright-Typescript](https://github.com/MungThai/playwright-typescript)***
-- ***[Cucummber-Java](https://github.com/MungThai/sample-cucumber-api)***
+Senior Test Automation Engineer
+Accenture: Google YouTube Music – Ottawa, Ontario  
+May 2021 – December 2022
+•	Developed automated, functional test scripts, maintain test automation scripts and validation of the behavior of a YouTube Music web, mobile and Watch
+•	Utilized a variety of programing languages including Java, Python, Typescript, Android and  Objective-C.
+•	Demonstrated proficiency in utilizing a suite of Google Cloud Platform, Cider, Blaze, GUITAR, MOSCAR, TestGrid, and Buganizer.
+•	Lead a team of 12 QA engineers, overseeing their professional development and ensuring the successful execution of test automation.
+•	Conducted through code reviews and maintenance code quality, adherence to best practice and knowledge sharing within the team.
+•	Mentored junior automation engineers, providing code reviews and guiding best practices for test automation.
+•	Participated in sprint planning, reviews, and daily stand-ups within an Agile environment.
 
 
-## Education:
+Senior Test Automation Engineer   
+Accenture: Canada Post Delivery System Re-Architecture (DSRA) Ottawa, Ontario
+July 2019 – May 2021
+•	Lead 4 teams of 20 automation engineers to develop and maintain test automation scripts for a web-based, performance, API and mobile application.
+•	Designed, implemented and deployed comprehensive test automation framework, like BDD, Java, Selenium WebDriver, Appium, ReportPortal.io, Jenkins, Android, and JMeter.
+•	Docker Compose for various purposes including Jenkins, ReportPortal.io.
+•	Collaborated with other departments within the company to support Accenture’s reputation and build opportunities across the Canada Post.
+•	Worked closely with various teams to ensure seamless integration of testing processes and enhance the overall quality of delivery.
+
+Senior Test Automation Engineer   
+MXI/IFS Aerospace and Defense Software		Ottawa, Ontario
+September 2016 – July 2019
+•	Implemented Test Automation framework using BDD, Java, Selenium WebDriver, Appium, RestAssured, Jenkins and ExtentReport.
+•	Played a pivotal role in integrating Test Automation into an Agile development process, enhancing testing efficiency and collaboration.
+•	Contributed to the implementation of Smoke and Regression Tests, supporting a CI/CD approach.
+•	Demonstrated proficiency in Web, API and Mobile testing to ensure the reliability of applications.
+•	Mentored junior QA engineers, providing code reviews and guidance best practices for test automation.
+•	Participated in spring planning, reviews, and daily stand-ups within an Agile environment.
+
+Senior Test Automation Engineer
+Cognos/IBM Canada – Cognos IBM Business Intelligence	Ottawa, Ontario
+November 1998 – September 2016
+•	Implemented, developed and maintained Test Automation  framework using Java, Selenium, IBM Rational Functional Tester (RFT) tool.  
+•	Managed database setup and configured for MS SQL Server, IBM DB2, and Oracle to ensuring seamless integration with Test Automation frameworks.
+•	Successfully executed and ensured the quality of release Cognos IBM Business Intelligence through automated testing.
+•	Conducted extensive cross-platform testing, validating applications functionality across Windows, Linux, and Unix environments.
+Software Developer
+Marinbridge Corporation
+June 1996 – November 1998
+•	Designed, implemented, and developed the Community Access Program System using Visual Basic and MS Access.
+•	Played a vital role as part of the development of Conversion Tool team, facilitating the migration from Oracle Forms to Visual Basic.
+```
+
+## Education
+---
 ### [Algonguin College @ Ottawa, Ontario, Canada](https://www.algonquincollege.com/)
 >
 *Computer Engineer Technology Diplomas with Honours - 1996*
 
-## Certifications:
+## Certifications
+---
 >
 - [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/3ZML9PS24E1QQ851)
 - [AI in Test Automation with Katalon](https://academy.katalon.com/mcertificate/lp659704f926789)
