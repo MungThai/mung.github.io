@@ -84,7 +84,7 @@ June 1996 – November 1998
 ---
 ### [Algonguin College @ Ottawa, Ontario, Canada](https://www.algonquincollege.com/)
 >
-*Computer Engineer Technology Diplomas with Honours - 1996*
+*Computer Engineer Technology Diplomas*
 
 ## Certifications
 ---
